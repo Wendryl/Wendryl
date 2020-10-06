@@ -4,6 +4,7 @@ My name is **Wendryl Santos**. I study **System Development** at **Fatec Taubat√
 I love **linux** and **open source software!**
 You can contact me with the links below
 
+<a href='https://sourcerer.io/wendryl'><img src='https://sourcerer.io/icons/logo-sharing.svg' height='20px' alt='Sourcerer'></a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendryl-santos-028248143/)](https://www.linkedin.com/in/wendryl-santos-028248143/)
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:wendryl10000@gmail.com)](mailto:wendryl10000@gmail.com)
 
