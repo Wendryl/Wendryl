@@ -11,14 +11,8 @@ You can contact me with the links below
 
 ### :zap: Stack
 [![Php](https://img.shields.io/badge/-Php-8892bf?logo=Php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-4479a1?logo=mariadb&logoColor=white&link=https://mariadb.org/)](https://mariadb.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=flat&color=grey&link=https://www.ecma-international.org/)](https://www.ecma-international.org/)
-[![HTML](https://img.shields.io/badge/-HTML-000?logo=html5&logoColor=white&color=e34f26&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=white&color=264de4&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JQuery](https://img.shields.io/badge/-JQuery-000?logo=jquery&logoColor=white&color=0769ad&link=https://jquery.com/)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap&logoColor=white&color=7952b3&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-
-
+[![NodeJs](https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=green&link=https://nodejs.org/)](https://nodejs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-ffffff?logo=Angular&logoColor=c3002f&link=https://nodejs.org/)](https://www.angular.io/)
 
 
 
