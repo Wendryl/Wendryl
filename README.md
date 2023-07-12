@@ -1,5 +1,5 @@
 ### Hello!
-My name is **Wendryl Santos**. I study **System Development** at **Fatec Taubaté** and I'm a **Web Developer**.
+My name is **Wendryl Santos**. I'm a Fullstack Software Engineer.
 
 I love **linux** and **open source software!**
 You can contact me with the links below
