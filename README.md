@@ -10,9 +10,9 @@ You can contact me with the links below
 <hr style="border: 1px solid gray"> </hr>
 
 ### :zap: Stack
-[![Angular](https://img.shields.io/badge/-Angular-c3002f?logo=Angular&logoColor=ffffff&link=https://nodejs.org/)](https://www.angular.io/)
+[![Angular](https://img.shields.io/badge/-Angular-c3002f?logo=Angular&logoColor=ffffff&link=https://www.angular.io/)](https://www.angular.io/)
 [![Typescript](https://img.shields.io/badge/-Typescript-3178c6?logo=Typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![NodeJs](https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=green&link=https://nodejs.org/)](https://nodejs.org/)
+[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?logo=laravel&logoColor=white&link=https://laravel.com/)](https://laravel.com/)
 [![Php](https://img.shields.io/badge/-Php-8892bf?logo=Php&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
 
 
